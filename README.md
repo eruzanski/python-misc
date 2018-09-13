@@ -1,2 +1,2 @@
 # python-misc
-Miscellaneous Python code
+Miscellaneous Python code to solve various problems I've encountered.
