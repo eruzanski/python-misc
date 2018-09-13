@@ -1,7 +1,6 @@
-# Given an array of length N (even), keep only k elements of the array and return the maximum number of unique elements. 
-# Best time complexity is O(N), average and worst time complexity is O(klog2N).
-#
-# Evan Ruzanski, September 13, 2018
+# Given an array of length N (even), keep only k elements of the array and return the maximum number of unique elements in that array. 
+# The best time complexity of this algorithm is O(N), average and worst time complexities are O(klogN).
+
 from collections import Counter
 
 def max_unique_vals(T, k):
